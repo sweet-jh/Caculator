@@ -1,0 +1,1 @@
+SimpleFactory简单工厂模式
