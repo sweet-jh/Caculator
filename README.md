@@ -1,1 +1,3 @@
 SimpleFactory简单工厂模式
+
+回去查一下书上怎么写的main里面
